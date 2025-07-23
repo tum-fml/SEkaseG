@@ -1,6 +1,6 @@
 # SEkaseG
 
-Das Projekt SEkaseG wurde von 2022 bis 2024 von der Bayerischen Forschungs- und Transformationsstifung gefördert. https://www.forschungsstiftung.bayern.de/
+Das Projekt SEkaseG wurde von 2022 bis 2024 von der Bayerischen Transformations- und Forschungsstiftung gefördert. https://www.forschungsstiftung.bayern.de/
 
 
 Ausgangssituation
